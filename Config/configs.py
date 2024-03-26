@@ -1,0 +1,5 @@
+urlToAdminPOrtal = "https://dev-admin.msq.market/"
+loginEmail = "admin@admin.com"
+loginPassword = "asDF1234@"
+screenshotFolder = "C:\\MSQUARE-ADMIN-PANEL\\screenshots\\"
+filePathToTestcases = "C:\\MSQUARE-ADMIN-PANEL\\ExlTestcases\\"
